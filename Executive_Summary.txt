@@ -1,0 +1,3 @@
+Executive Summary
+
+This project provides predictive forecasting for the HHS UAC Program using machine learning and time-series analytics. The solution enables healthcare planners to anticipate care demand, reduce overcrowding risk, and improve operational readiness.
